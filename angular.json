@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "my-angular-project"
+  "defaultProject": "my-angular-project",
+  "cli": {
+    "analytics": "7119ec2e-2224-49fe-aecc-0f12bc572d02"
+  }
 }
